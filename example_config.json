@@ -1,0 +1,27 @@
+{
+    "seed": 2,
+    "num_databricks": 10,
+    "num_edges": 30,
+    "max_firewalls": 9,
+    "records_range": [
+        10,
+        99
+    ],
+    "brick_weight_range": [
+        1,
+        9
+    ],
+    "brick_volume_range": [
+        1,
+        9
+    ],
+    "graph_type": "matrix",
+    "mst_solver": "prims",
+    "run_loader": true,
+    "loader": "brute_force",
+    "weight_capacity": 25,
+    "volume_capacity": 20,
+    "visualise": true,
+    "visual_filename": "example_output",
+    "print_struct": false
+}

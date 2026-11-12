@@ -1,0 +1,4 @@
+# Third-party packages required by the assignment skeleton.
+# Install with:  pip install -r requirements.txt
+matplotlib>=3.8
+numpy>=1.26
