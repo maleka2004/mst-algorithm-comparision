@@ -1,4 +1,4 @@
-# mst-algorithm-comparision
+
 # Minimum Spanning Tree Algorithms: Which One Is Fastest?
 
 An experiment comparing **Prim's** and **Kruskal's** algorithms on two graph representations (**adjacency list** and **adjacency matrix**) to find out how graph density changes which combination performs best.
